@@ -1,0 +1,1 @@
+var json_pot_2 = {"type":"FeatureCollection","name":"pot_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","naziv":"pot 1","opis":"testna pot"},"geometry":{"type":"LineString","coordinates":[[14.505205360104775,46.044109407767003],[14.489755464070733,46.054613395576219]]}}]}
